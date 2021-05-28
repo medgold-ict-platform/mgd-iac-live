@@ -1,0 +1,11 @@
+.DS_Store
+.gitignore.swl
+.terraform/
+terraform.tfplan
+terraform.tfstate
+./*.tfstate
+.vscode
+.*.swp
+terraform.tfstate.backup
+.vscode/temp.sql
+.terragrunt-cache*
